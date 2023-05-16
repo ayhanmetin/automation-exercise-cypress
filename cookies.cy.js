@@ -1,7 +1,7 @@
 ///<reference types="cypress" />
 
-describe('cypress file upload', () => {
-  it('file upload example 1', () => {
+describe('cypress cookies', () => {
+  it('cookies example 1', () => {
     cy.visit('https://www.qrcode-monkey.com/')
     cy.getCookies().should('have.length', 8);
     cy.getCookie('_uetsid').then((cookie) => {
