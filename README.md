@@ -3,8 +3,6 @@
 This repository contains various Cypress test examples that demonstrate how to automate websites using Cypress. 
 The sample websites used for this demonstration include:
 
-ToolsQA: https://www.toolsqa.com/
-
 Cypress Example - ToDo: https://example.cypress.io/todo
 
 DemoQA: https://demoqa.com/
